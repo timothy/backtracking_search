@@ -15,3 +15,5 @@ funtion RECURSIVE-BACKTRACKING (assignment, csp) # returns solution or failure
       remove {var = value} from assignment
   return failure
 ```
+
+- can be used in constraint satisfaction problems
